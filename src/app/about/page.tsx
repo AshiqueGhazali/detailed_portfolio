@@ -130,7 +130,7 @@ export default function AboutPage() {
                       University of Calicut. Studied English Literature with a focus on Literary Criticism, Linguistics, Communication Skills, Cultural Studies, and Modern & Classical Literature.
                     </p>
                   </div>
-                  <span className="text-xs text-muted-foreground whitespace-nowrap font-mono">2024</span>
+                  <span className="text-xs text-muted-foreground whitespace-nowrap font-mono">2023</span>
                 </div>
               </div>
             </div>

@@ -38,7 +38,7 @@ export const experienceData: Experience[] = [
     role: "MERN Stack Developer Trainee",
     company: "Brototype",
     location: "Calicut, India",
-    duration: "Dec 2024 - Jan 2025",
+    duration: "Dec 2023 - Jan 2025",
     description: "Rigorous industry-aligned bootcamp program. Developed full-stack software from scratch, verified via daily standups and weekly technical audits.",
     responsibilities: [
       "Designed and launched Zephyr, a complete payment-integrated E-commerce solution.",
