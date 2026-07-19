@@ -29,7 +29,7 @@ export function About() {
               </div>
               <h3 className="text-xl font-bold text-foreground">The Journey</h3>
               <p className="text-muted-foreground text-sm leading-relaxed">
-                My passion for software began during my **Bachelor of Computer Applications (BCA)** at Calicut University, where I built a solid foundation in algorithms, databases, and Object-Oriented Design.
+                My passion for technology began during my Bachelor of Arts in English Literature (BA) while working as a freelance graphic designer. Wanting to expand my skills, I started exploring programming and web development, which eventually became my career.
               </p>
               <p className="text-muted-foreground text-sm leading-relaxed">
                 To bridge the gap between academic theory and high-scale production systems, I completed an intensive trainee program at **Brototype**, logging over 1,000 hours of pure coding and launch pipelines. Today, as a Full Stack Engineer at **Subhx Infotech**, I architect premium SaaS and AI integrations.

@@ -125,9 +125,9 @@ export default function AboutPage() {
                 <div className="h-px bg-border/40 w-full" />
                 <div className="flex justify-between items-start gap-4">
                   <div>
-                    <h4 className="font-bold text-foreground text-sm">Bachelor of Computer Applications (BCA)</h4>
+                    <h4 className="font-bold text-foreground text-sm">{"Bachelor of Arts in English Literature (BA)"}</h4>
                     <p className="text-xs text-muted-foreground mt-1">
-                      Calicut University. Evaluated in core algorithms, Relational Database Management Systems, and networking paradigms.
+                      University of Calicut. Studied English Literature with a focus on Literary Criticism, Linguistics, Communication Skills, Cultural Studies, and Modern & Classical Literature.
                     </p>
                   </div>
                   <span className="text-xs text-muted-foreground whitespace-nowrap font-mono">2024</span>

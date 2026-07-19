@@ -23,7 +23,7 @@ export const experienceData: Experience[] = [
     role: "Full Stack Developer",
     company: "Subhx Infotech",
     location: "Karnal, Haryana, India",
-    duration: "Feb 2025 - Present",
+    duration: "Jan 2025 - Present",
     description: "Architect and scale production full-stack web platforms. Drive end-to-end features from system design, database schemas, to fluid animated frontends.",
     responsibilities: [
       "Engineered stateless Node.js / Express microservices and integrated with Next.js App Router SSR platforms.",
@@ -38,7 +38,7 @@ export const experienceData: Experience[] = [
     role: "MERN Stack Developer Trainee",
     company: "Brototype",
     location: "Calicut, India",
-    duration: "Jun 2024 - Jan 2025",
+    duration: "Dec 2024 - Jan 2025",
     description: "Rigorous industry-aligned bootcamp program. Developed full-stack software from scratch, verified via daily standups and weekly technical audits.",
     responsibilities: [
       "Designed and launched Zephyr, a complete payment-integrated E-commerce solution.",
@@ -52,10 +52,10 @@ export const experienceData: Experience[] = [
 
 export const educationData: Education[] = [
   {
-    id: "bca",
-    degree: "Bachelor of Computer Applications (BCA)",
-    institution: "Calicut University",
-    duration: "2021 - 2024",
-    details: "Specialized in Computer Science, Database Systems, Object-Oriented Software Design, and Web Architectures."
+    id: "ba",
+    degree: "Bachelor of Arts in English Literature (BA)",
+    institution: "University of Calicut",
+    duration: "2020 - 2023",
+    details: "Focused on English Literature, Literary Criticism, Linguistics, Communication Skills, and Cultural Studies."
   }
 ];
