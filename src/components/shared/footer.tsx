@@ -25,7 +25,7 @@ export function Footer() {
             </span>
           </p>
           <p className="text-xs text-muted-foreground">
-            Full Stack Developer • Kochi, India / Remote
+            Full Stack Developer • Wayanad, India / Remote
           </p>
         </div>
 

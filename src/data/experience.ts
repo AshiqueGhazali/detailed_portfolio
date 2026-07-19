@@ -22,7 +22,7 @@ export const experienceData: Experience[] = [
     id: "subhx",
     role: "Full Stack Developer",
     company: "Subhx Infotech",
-    location: "Kochi, India",
+    location: "Karnal, Haryana, India",
     duration: "Feb 2025 - Present",
     description: "Architect and scale production full-stack web platforms. Drive end-to-end features from system design, database schemas, to fluid animated frontends.",
     responsibilities: [
@@ -37,7 +37,7 @@ export const experienceData: Experience[] = [
     id: "brototype",
     role: "MERN Stack Developer Trainee",
     company: "Brototype",
-    location: "Kochi, India",
+    location: "Calicut, India",
     duration: "Jun 2024 - Jan 2025",
     description: "Rigorous industry-aligned bootcamp program. Developed full-stack software from scratch, verified via daily standups and weekly technical audits.",
     responsibilities: [

@@ -100,7 +100,7 @@ export function Hero() {
         </div>
         <div className="text-col-span-2 sm:col-span-1 text-center">
           <p className="text-2xl sm:text-3xl font-bold text-foreground flex items-center justify-center gap-1">
-            <MapPin className="h-5 w-5 text-brand" /> Kochi, IN
+            <MapPin className="h-5 w-5 text-brand" /> Wayanad, IN
           </p>
           <p className="text-xs text-muted-foreground uppercase tracking-wider font-medium">Open to Remote</p>
         </div>

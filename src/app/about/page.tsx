@@ -9,7 +9,7 @@ export default function AboutPage() {
   return (
     <div className="relative w-full min-h-screen py-12 md:py-20 flex flex-col items-center">
       <CustomBackground />
-      
+
       <div className="max-w-4xl mx-auto px-6 w-full relative z-10">
         <ScrollReveal>
           <div className="text-left mb-12">
@@ -31,7 +31,7 @@ export default function AboutPage() {
                 <Terminal className="h-5 w-5 text-brand" /> Detailed Biography
               </h2>
               <p className="text-sm text-muted-foreground leading-relaxed">
-                I am a Software Engineer based in Kochi, India. I specialize in the Next.js / MERN ecosystem, Node.js, and relational databases like PostgreSQL. Over my professional trajectory, I have focused on designing scalable backend APIs, optimizing web page speeds, and implementing generative AI features.
+                I am a Software Engineer based in Kerala, India. I specialize in the Next.js / MERN ecosystem, Node.js, and relational databases like PostgreSQL. Over my professional trajectory, I have focused on designing scalable backend APIs, optimizing web page speeds, and implementing generative AI features.
               </p>
               <p className="text-sm text-muted-foreground leading-relaxed">
                 My career started with computer applications, which drove me to appreciate database normalization, software architecture patterns, and interface usability. I spent hundreds of hours in intensive development sprints, launching complex applications and surviving weekly audits.

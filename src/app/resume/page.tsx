@@ -48,10 +48,10 @@ export default function ResumePage() {
               <p className="text-lg font-semibold text-brand print:text-indigo-600 mt-1">
                 Full Stack Software Engineer
               </p>
-              
+
               <div className="flex flex-wrap gap-4 items-center text-xs text-muted-foreground mt-4 print:text-neutral-500">
                 <span className="flex items-center gap-1.5">
-                  <MapPin className="h-3.5 w-3.5" /> Kochi, India / Remote
+                  <MapPin className="h-3.5 w-3.5" /> Wayanad, India / Remote
                 </span>
                 <span className="flex items-center gap-1.5">
                   <Mail className="h-3.5 w-3.5" /> ashiquekundala6@gmail.com
@@ -105,7 +105,7 @@ export default function ResumePage() {
                           {exp.duration}
                         </span>
                       </div>
-                      
+
                       <p className="text-xs text-muted-foreground leading-relaxed italic mt-1">
                         {exp.description}
                       </p>

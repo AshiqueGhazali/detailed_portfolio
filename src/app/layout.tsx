@@ -20,7 +20,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Muhammed Ashique P K | Full Stack Engineer & Product Designer",
   description: "Crafting premium digital experiences through minimal design and complex engineering. Specializing in Next.js, Node.js, PostgreSQL, and Generative AI integrations.",
-  keywords: ["Muhammed Ashique PK", "Full Stack Developer", "Software Engineer", "Next.js", "React Developer", "Kochi Developer", "SaaS Designer", "AI Integration Engineer"],
+  keywords: ["Muhammed Ashique PK", "Full Stack Developer", "Software Engineer", "Next.js", "React Developer", "SaaS Designer", "AI Integration Engineer"],
   authors: [{ name: "Muhammed Ashique P K" }],
   creator: "Muhammed Ashique P K",
   metadataBase: new URL("https://www.ashique.space"),
